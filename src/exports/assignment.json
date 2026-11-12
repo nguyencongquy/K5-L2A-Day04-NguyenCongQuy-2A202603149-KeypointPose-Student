@@ -1,0 +1,65 @@
+{
+ "mssv": "2A202603149",
+ "ten": "NguyenCongQuy",
+ "pool_version": "d04-k5-v2",
+ "cvat_user": "bim",
+ "project": "d04-keypoint",
+ "persons": [
+  "000000072098.jpg",
+  "000000176000.jpg",
+  "000000294329.jpg",
+  "000000343057.jpg",
+  "000000349521.jpg",
+  "000000056651.jpg",
+  "000000157271.jpg",
+  "000000580257.jpg",
+  "000000210604.jpg",
+  "000000311300.jpg",
+  "000000167027.jpg",
+  "000000326480.jpg"
+ ],
+ "faces": [
+  "face_147624.jpg",
+  "face_204787.jpg",
+  "face_425647.jpg",
+  "face_137371.jpg",
+  "face_449454.jpg",
+  "face_380754.jpg",
+  "face_256814.jpg",
+  "face_79367.jpg"
+ ],
+ "tasks": {
+  "persons": {
+   "task_id": 11,
+   "job_id": 11,
+   "task_name": "persons-NguyenCongQuy"
+  },
+  "faces": {
+   "task_id": 12,
+   "job_id": 12,
+   "task_name": "faces-NguyenCongQuy"
+  },
+  "persons-extra": {
+   "task_id": 13,
+   "job_id": 13,
+   "task_name": "persons-extra-NguyenCongQuy"
+  },
+  "faces-extra": {
+   "task_id": 14,
+   "job_id": 14,
+   "task_name": "faces-extra-NguyenCongQuy"
+  }
+ },
+ "persons_extra": [
+  "000000161603.jpg",
+  "000000254060.jpg",
+  "000000517702.jpg"
+ ],
+ "faces_extra": [
+  "face_274219.jpg",
+  "face_379585.jpg",
+  "face_45276.jpg",
+  "face_494518.jpg",
+  "face_507166.jpg"
+ ]
+}
